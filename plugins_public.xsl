@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-<xsl:template match="/qgis_plugins">
+<xsl:template match="/plugins">
 
 <html>
 <head>
@@ -55,7 +55,7 @@ div.download, div.author, div.experimental{
 <body>
 
 <h1>Aaron's Python Qgis Plugins</h1>
-<xsl:for-each select="/qgis_plugins/pyqgis_plugin">
+<xsl:for-each select="/plugins/pyqgis_plugin">
 <div class="plugin">
 <div class="head">
 <xsl:element name="a">

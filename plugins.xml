@@ -8,7 +8,7 @@
     <homepage>http://aaronr.github.io/qgis_plugins</homepage>
     <file_name>test_plugin.zip</file_name>
     <author_name>Aaron Racicot</author_name>
-    <download_url>http://aaronr.github.io/qgis_plugins/test_plugin.zip</download_url>
+    <download_url>https://github.com/aaronr/test_plugin/archive/v1.0.zip</download_url>
     <uploaded_by>aaronr</uploaded_by>
     <create_date>2013-09-19</create_date>
     <update_date>2013-09-19</update_date>
