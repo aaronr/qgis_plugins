@@ -1,14 +1,14 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <?xml-stylesheet type='text/xsl' href='/qgis_plugins/plugins_public.xsl' ?>
 <plugins>
-  <pyqgis_plugin name='Test Plugin' version='1.1'>
+  <pyqgis_plugin name='foss4g2011_example1_starter' version='1.1'>
     <description>Just a test</description>
-    <version>1.1</version>
+    <version>1.0</version>
     <qgis_minimum_version>1.0</qgis_minimum_version>
     <homepage>https://github.com/aaronr/test_plugin/</homepage>
     <file_name>foss4g2011_example1_starter.zip</file_name>
     <author_name>Aaron Racicot</author_name>
-    <download_url>http://linode.z-pulley.com/foss4g2011_example1_starter.zip</download_url>
+    <download_url>http://aaronr.github.io/qgis_plugins/foss4g2011_example1_starter/v1.0/foss4g2011_example1_starter.zip</download_url>
     <uploaded_by>aaronr</uploaded_by>
     <create_date>2013-09-19</create_date>
     <update_date>2013-09-19</update_date>
